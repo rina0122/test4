@@ -1,0 +1,6 @@
+{
+  "name": "자기소개 페이지",
+  "description": "깔끔하고 세련된 디자인의 고품격 웹 개발자 포트폴리오 및 자기소개 페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
